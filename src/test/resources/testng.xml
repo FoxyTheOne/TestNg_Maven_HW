@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Tests Suite" parallel="tests" thread-count="5">
+    <test name="All Tests">
+        <classes>
+            <class name="FractionTest"/>
+            <class name="DeliveryCostCalculationUtilsTest"/>
+        </classes>
+    </test>
+</suite>
